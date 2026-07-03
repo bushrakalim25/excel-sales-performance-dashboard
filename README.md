@@ -82,7 +82,7 @@ The objective of this project is to convert raw sales data into an interactive d
 
 ## 📷 Dashboard Preview
 
-
+![image alt](https://github.com/bushrakalim25/excel-sales-performance-dashboard/blob/5546f8e21207efe525bc4cc7910f7d65fea49542/Screenshot%202026-07-03%20211748.png)
 ---
 
 ## 📚 What I Learned
